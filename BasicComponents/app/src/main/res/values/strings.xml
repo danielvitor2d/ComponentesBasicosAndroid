@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Basic Components</string>
+    <string name="checked">checked</string>
+    <string name="unchecked">unchecked</string>
+    <string-array name="Compras">
+        <item>Água</item>
+        <item>Água Sanitária</item>
+        <item>Arroz</item>
+        <item>Alho</item>
+        <item>Alface</item>
+        <item>Açúcar</item>
+        <item>Abacaxi</item>
+        <item>Abacate</item>
+        <item>Batata</item>
+        <item>Bolacha</item>
+        <item>Banana</item>
+        <item>Biscoito</item>
+        <item>Coentro</item>
+        <item>Cebola</item>
+        <item>Carne</item>
+        <item>Chuchu</item>
+        <item>Cheiro verde</item>
+        <item>Creme Dental</item>
+        <item>Detergente</item>
+        <item>Escova</item>
+        <item>Escova de Dentes</item>
+        <item>Feijão</item>
+        <item>Frango</item>
+        <item>Farinha</item>
+        <item>Gelo</item>
+        <item>Leite</item>
+        <item>Leite em Pó</item>
+        <item>Linguiça</item>
+        <item>Limão</item>
+        <item>Laranja</item>
+        <item>Macarrão</item>
+        <item>Melão</item>
+        <item>Manga</item>
+        <item>Mortandela</item>
+        <item>Melancia</item>
+        <item>Maçã</item>
+        <item>Macaxeira</item>
+        <item>Nescau</item>
+        <item>Nutella</item>
+        <item>Pá</item>
+        <item>Papel Higiênico</item>
+        <item>Pimenta</item>
+        <item>Pimentão</item>
+        <item>Polpas</item>
+        <item>Peixe</item>
+        <item>Queijo</item>
+        <item>Rodo</item>
+        <item>Sal</item>
+        <item>Salada</item>
+        <item>Sabão</item>
+        <item>Sabão em Pó</item>
+        <item>Salsicha</item>
+        <item>Shampoo</item>
+        <item>Tomate</item>
+        <item>Uva</item>
+        <item>Vassoura</item>
+    </string-array>
+</resources>
